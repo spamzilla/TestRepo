@@ -1,0 +1,5 @@
+I found this when I tried inheriting from a CustomInventory (but not a SoulSphere) and using a custom variable ( var int user_Example; ) to make the item shrink and expand.
+Is this something that I should be worried about? My project does feature this type of decoration!
+
+Script warning, "VM_Abort_Test.wad:DECORATE" line 22:
+Self pointer used in ambiguous context; VM execution may abort!
